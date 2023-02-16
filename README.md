@@ -12,4 +12,4 @@ tested code on both starter files - seems to work fine.
 --An update_many() query is performed to convert the latitude and longitude fields from strings to decimal numbers (4 points)--
 Initially converted using toDecimal - however this is a seperate pymongo datatype - changed to toDouble and checked outputs and can confirm results converted to decimal from string (output no longer showing '' around decimal)
 
-
+All files pushed/commited using Terminal
